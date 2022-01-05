@@ -1,1 +1,64 @@
-
+{
+    "Ads": {
+        "AdMob": {
+            "activated": false,
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "interstitial": "ca-app-pub-3940256099942544/1033173712"
+        },
+        "FAN": {
+            "activated": false,
+            "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        },
+        "ironSource": {
+            "activated":true,
+            "app_key": "11dae943d"
+        },
+        "Tapdaq": {
+            "activated": true,
+            "AppId": "619f526486c31c4e07c1134c",
+            "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+        },
+        "Yandex": {
+             "activated": true,
+            "banner": "R-M-1355917-2",
+            "native": "R-M-1355917-3",
+            "interstitial": "R-M-1355917-1"
+        }
+    },
+    "Config": {
+        "app_version": "1.0",
+        "package_name": "com.scarypoppy.survival_horror_playtime",
+        "rattingIsEnabled": false
+    },
+    "Privacy": {
+        "isEnabled": true,
+        "title": "Privacy Policy",
+        "message": "Privacy Policy Message",
+        "url": "https://termly.io/privacy-policy/"
+    },
+    "GuideContent": [
+        {
+            "title": "Download the game and start it up, select Press Here To Start to enter the game",
+            "description": "The gameplay is very simple, you just do the task of a babysitter who needs to follow the milestones that the game requires. However, there will be times when you see strange phenomena happening in this house and it can make your heart skip a beat. This is a game not for the faint of heart. If you are new to the game and do not know what to do, you can follow the instructions below. "
+        },
+        {
+            "title": "Step 2",
+            "description": " After entering the game, when approaching the baby, the door, the refrigerator and some other items, you will see a hint icon appear as shown below. Click it directly to perform the action. Look up in the upper left corner and there you will know what the current quest requirement is. "
+        },
+        {
+            "title": " Step 3",
+            "description": " The simple tasks are to get milk to change diapers and put the baby to sleep, if you need milk, go to the room at the bottom of the stairs. Open the refrigerator and you will see milk To change diapers, go to the bathroom next to the sofa to watch TV, put the baby at the table and pick up the diaper right near the door. Sometimes you will see some strange phenomena occur when doing the task. "
+        },
+        {
+            "title": " Step 4 ",
+            "description": "Upstairs, there will be the last room and the room at the top of the stairs is open. The last room will be where you let your baby sleep. The room at the top of the stairs you can open on the third day will contain an item called Talisma, which is used to counter the demon in the child. "
+        },
+        {
+            "title": "Step 5",
+            "description": "Just do the tasks set out as required but there will be scares coming from the baby you watch. Accompanied by strange phenomena of horror nature that you will have to face. Try to do all the tasks and you will “break” the game. "
+        }
+    ]
+}
